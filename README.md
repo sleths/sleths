@@ -8,4 +8,4 @@ I'm a frontend developer based in İzmir, Turkey.
 - :envelope: Reach me: <a href="mailto:serazenginler@outlook.com">here</a> and <a href="https://www.linkedin.com/in/sera-zenginler/" rel="noreferrer" target="_blank">there</a>.
 - :chart_with_upwards_trend: Here's my stats:
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sleths&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sleths&theme=dark)](https://git.io/streak-stats)
