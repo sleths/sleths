@@ -4,10 +4,10 @@ I'm a frontend developer, blockchain technology enthusiast and an amateur cyclis
 
 - :gear: Daily grinding React, TypeScript, JavaScript, Next.js, CSS, and SCSS.
 - :pushpin: Currently exploring Node.js.
-- :hammer_and_wrench:	Crafting things at [GoWit](https://www.linkedin.com/company/gowit-adtech/).
+- :owl: Crafting things at [GoWit](https://www.linkedin.com/company/gowit-adtech/).
 - :bicyclist: [More about me &rarr;](https://www.linkedin.com/in/sera-zenginler/)<br />
 - :ocean: [My personal website &rarr;](https://sera.works/)<br />
-- :toolbox: Stack: 
+- :hammer_and_wrench: Stack: 
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
