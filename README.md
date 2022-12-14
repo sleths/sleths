@@ -2,7 +2,7 @@
 
 I'm a frontend developer, blockchain technology enthusiast and an amateur cyclist based in İzmir, Turkey.
 
-- :gear: Daily grinding React, TypeScript, JavaScript, Next.js, CSS, and SCSS.
+- :gear: Daily grinding React, TypeScript, Next.js, and SCSS.
 - :pushpin: Currently exploring Node.js.
 - :owl: Crafting things at [GoWit](https://www.linkedin.com/company/gowit-adtech/).
 - :bicyclist: [More about me &rarr;](https://www.linkedin.com/in/sera-zenginler/)<br />
