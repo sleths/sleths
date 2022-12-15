@@ -1,6 +1,6 @@
 **Hello, I'm Sera**👋
 
-I'm a frontend developer, blockchain technology enthusiast and an amateur cyclist based in İzmir, Turkey.
+I'm a frontend developer, web3 enthusiast and an amateur cyclist based in İzmir, Turkey.
 
 - :gear: Daily grinding React, TypeScript, Next.js, and SCSS.
 - :microscope: Currently exploring Node.js.
