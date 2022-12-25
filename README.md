@@ -20,5 +20,5 @@ I'm a frontend developer, web3 enthusiast and an amateur cyclist based in İzmir
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="21px" height="21px"></a>
-
+- 📈 Here's my stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sleths&theme=dark)](https://git.io/streak-stats)
